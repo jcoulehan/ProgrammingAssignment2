@@ -41,7 +41,6 @@ cacheSolve <- function(x, mat) {
   s
 }
 
-
 # usage code showing the function in action.
 #mat <- rbind(c(1,4),c(1,1))
 #s <- makeCacheMatrix(mat)
